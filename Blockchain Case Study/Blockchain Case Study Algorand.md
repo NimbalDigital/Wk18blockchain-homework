@@ -36,8 +36,8 @@ Another key consideration for the future value of Algorand is it's commitments t
 
 
 ### *References*
-https://www.gemini.com/cryptopedia/what-is-algorand-cryptocurrency-blockchain
-https://www.kraken.com/learn/what-is-algorand-algo
-https://www.sofi.com/learn/content/what-is-algorand-algo/
-https://blockchainaustralia.com.au/what-is-algorand-and-how-does-it-aim-to-create-a-borderless-economy/
-https://www.algorand.com/about/sustainability
+* https://www.gemini.com/cryptopedia/what-is-algorand-cryptocurrency-blockchain
+* https://www.kraken.com/learn/what-is-algorand-algo
+* https://www.sofi.com/learn/content/what-is-algorand-algo/
+* https://blockchainaustralia.com.au/what-is-algorand-and-how-does-it-aim-to-create-a-borderless-economy/
+* https://www.algorand.com/about/sustainability
